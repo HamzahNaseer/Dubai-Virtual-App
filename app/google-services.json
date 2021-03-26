@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252899441651",
+    "firebase_url": "https://genzytalentacademy.firebaseio.com",
+    "project_id": "genzytalentacademy",
+    "storage_bucket": "genzytalentacademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252899441651:android:1a2d78fcbf939d3d123086",
+        "android_client_info": {
+          "package_name": "com.app.vrnmocawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252899441651-n6jfr3t28kmev8j5nvoelvjpbre02oj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.vrawan",
+            "certificate_hash": "1bf570e89062df0ab145bc92b3712dd1dd3953bf"
+          }
+        },
+        {
+          "client_id": "252899441651-lhcq5eogp02t6iju8nmbvskhntipj80n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFO1j5QzWjbz6XZvNK2kwAo_OMSG6aWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252899441651-lhcq5eogp02t6iju8nmbvskhntipj80n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
