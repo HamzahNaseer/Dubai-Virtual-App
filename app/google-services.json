@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:252899441651:android:1a2d78fcbf939d3d123086",
         "android_client_info": {
-          "package_name": "com.app.vrnmocawan"
+          "package_name": "app.webview.vrnmocawan"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "252899441651-n6jfr3t28kmev8j5nvoelvjpbre02oj7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.app.vrawan",
+            "package_name": "app.webview.vrnmocawan",
             "certificate_hash": "1bf570e89062df0ab145bc92b3712dd1dd3953bf"
           }
         },

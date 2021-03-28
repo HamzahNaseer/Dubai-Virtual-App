@@ -2,10 +2,16 @@ package app.webview.vrnmocawan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.DownloadManager;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.Toast;
+
+import java.io.File;
 
 
 public class SplashScreen extends AppCompatActivity {
@@ -23,6 +29,9 @@ public class SplashScreen extends AppCompatActivity {
         //imageView = (ImageView)findViewById(R.id.splash);
 //        Vibrator v = (Vibrator) this.getSystemService(Context.VIBRATOR_SERVICE);
 //        v.vibrate(4000);
+
+
+
 
         splashTread = new Thread() {
             @Override
